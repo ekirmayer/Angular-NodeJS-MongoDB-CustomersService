@@ -37,7 +37,7 @@
         "handlebars-layouts": "^3.1.4",
         "express-session": "^1.14.2",
         "hbs": "~4.0.1",
-        "mongoose": "^4.6.8",
+        "mongoose": "^5.10.5",
         "morgan": "~1.7.0",
         "serve-favicon": "~2.3.2"
     },
